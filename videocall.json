@@ -24,6 +24,6 @@
    "Applovin_NativeAdId": "applovin_native",
    "Applovin_NativeBannerAdId": "applovin_nativebanner",
    "Applovin_RewardedAdId": "applovin_rewarded",
-   "ChackUpdate": "false",
+   "ChackUpdate": "true",
    "VPN": "false"
 }
